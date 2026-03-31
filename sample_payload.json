@@ -1,9 +1,0 @@
-{
-  "fullName": "John Doe",
-  "phone": "1234567890",
-  "email": "example@email.com",
-  "movingDate": "2026-04-10",
-  "fromAddress": "Boston, MA",
-  "toAddress": "Cambridge, MA",
-  "apartmentSize": "2 BR"
-}
