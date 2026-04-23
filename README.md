@@ -1,4 +1,4 @@
-🚚 Seven Moving Automation System (Azure + Google Forms + AI Agents)
+🚚 Moving Automation System (Azure + Google Forms + AI Agents)
 
 📌 Overview
 
